@@ -1,0 +1,21 @@
+{
+	"name" : "S3Corp/WordGenerator",
+    "description" : "A word file generator from a scratch",    
+    "authors" : [{
+        "name" : "hoang nguyen",
+        "email" : "hoang.nguyen@s3corp.com.vn"
+    }],
+    "keywords" : [
+        "first on git word generator"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "WordGenerator\\Lib" : ""
+        }
+    }
+}
